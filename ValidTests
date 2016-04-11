@@ -1,0 +1,6 @@
+(CAR (COND ((INT 5) (CONS 1 NIL)) (T (INT (CONS 1 NIL)))))
+T
+F
+NIL
+12321
+(NULL ())
